@@ -1,0 +1,2 @@
+This file is made to check what happens when-
+the file is created and staged in feature branch but commited in main branch
