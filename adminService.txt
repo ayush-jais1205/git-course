@@ -1,0 +1,7 @@
+//This is made to experiment with branch feature of git
+
+This is admin Services
+1. can see all the records
+2. can alter user data
+3. can delete user account
+4. can add or remove new features
